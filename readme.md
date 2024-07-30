@@ -31,6 +31,10 @@ To use this package, you need to have Go installed on your machine. If you don't
 # Usage
 Once the application is running, it will display a table with the current weather data for the specified cities. The table will be updated every 10 minutes, and a countdown timer will show the time remaining until the next update.
 
+# Dependencies
+All requests to the API to get weather conditions are through the [Dastyar](https://dastyar.io) service. Thank you to the [Dastyar](https://dastyar.io) team.
+
+
 # Example Output
 
 ```mathematica
@@ -48,6 +52,7 @@ Time remaining: 09:59
 ```
 
 ![Logo](./demo.png)
+
 
 
 # Contributing
