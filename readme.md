@@ -19,14 +19,14 @@ To use this package, you need to have Go installed on your machine. If you don't
 
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/mohammadhasanii/Go-Weather.git 
-   ```
+```
 
 2. Run the application
  ```bash
    go run main.go 
-   ```
+```
 
 # Usage
 Once the application is running, it will display a table with the current weather data for the specified cities. The table will be updated every 10 minutes, and a countdown timer will show the time remaining until the next update.
